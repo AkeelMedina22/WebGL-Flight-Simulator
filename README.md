@@ -1,6 +1,6 @@
 # About the Project
 
-This is project #1 from CS 440 Computer Graphics, offered at Habib University at Fall 2021.
+This is project #1 from CS 440 Computer Graphics, offered at Habib University at Fall 2021. Updated Summer 2022 for refactoring purposes, for a more efficient implementation. Some features have been removed and some will be added. 
 
 There are 5 main features implemented in this project:
 
@@ -18,6 +18,3 @@ The HTML file titled 'simulator.html' must be opened in a chromium based browser
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-This project was done in a group of 4, from which work was equally divided.
